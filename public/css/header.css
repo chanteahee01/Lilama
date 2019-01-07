@@ -1,0 +1,22 @@
+.one{
+    background-color: cornflowerblue;
+    height: 46px;
+}
+
+.form-inline{
+    margin-top: 5px;
+}
+.nav-link{
+    color: white;
+}
+.two{
+   
+    height: 300px;
+    margin-top: 7px;
+}
+.list-group li i a:hover{
+    color: red;
+    background-color: darkgray;
+}.list-group{
+    background-color: rgb(27, 27, 27);
+}
