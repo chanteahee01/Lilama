@@ -60,7 +60,8 @@
 		</div>
 	
 		<div class="row">
-            <footer style="color:red; width: 1200%;">
+            <footer style="color: white; width: 1300px; background-color:black; margin-top: 160px; text-align: center;
+			height: 150px; ">
 			   Copyright © 2018 Lương Ngọc Khánh
 		   </footer>
         </div>
