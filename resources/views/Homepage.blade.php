@@ -60,8 +60,8 @@
 		</div>
 	
 		<div class="row">
-            <footer style="color:red; width: 1200px;">
-			   Copyright © 2018 Lương Ngọc Khánh-Tin24A1-UNETI
+            <footer style="color:red; width: 1200%;">
+			   Copyright © 2018 Lương Ngọc Khánh
 		   </footer>
         </div>
            
